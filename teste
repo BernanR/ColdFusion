@@ -1,0 +1,2 @@
+<cfset teste="first Teste" />
+<cfoutput>#teste#</cfoutput>
